@@ -18,7 +18,8 @@ public void createcontactTest() {
 	
 	
 	
-	System.out.println("execute createcontactTest");   
+	System.out.println("execute createcontactTest"); 
+	System.out.println("sucess");
 }
 @Test
 public void modfiycontactTest() {

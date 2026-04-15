@@ -7,7 +7,7 @@ public class OrgTest {
 	@Test
 	public void createorgTest() {
 		System.out.println("execute createorgTest");
-		System.out.println("execute createorgTest");
+	
 	}
 
 	@Test
